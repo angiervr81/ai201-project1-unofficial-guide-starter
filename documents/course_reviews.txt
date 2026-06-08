@@ -1,0 +1,25 @@
+How hard are classes in CS?
+
+
+I mean obviously they’re hard but as long as you start stuff early and study ur fine; can’t really give you much cus you’re not being specific
+
+A lot of it depends on the professor tbh. But 214 and 215 aren’t that bad. 216 is definitely more difficult though and the homeworks aren’t fun either.
+
+But overall most of the required CSE courses here aren’t that rigorous, with thr exception of 320 which is definitely the hardest
+
+215 and 214 are very doable as long as you start early. For 214 would finish the homework within a week and a half without using ChatGPT. If you ever run into any problems, make sure to go to office hours and ask the TAs questions. 215 is easier It’s just a bunch of memorization and practice. Obviously, your experience might be different based on the teachers. I had Esmaili for 214 and Kane for 215. 216 is hard because of topics such as ocaml, lambda calculus, and the general curriculum of the course. I had Banerjee for 216.
+
+
+Tips for MAT classes:
+
+Use the lumen videos
+
+swap to ams is my best advice
+
+blackpenredped has tons of calculus review you can use to help study.
+100 Everything - YouTube
+
+If youre allowed to use calculators on the exam it has integral and derivative solving functions if you didnt already know that also you can save equations or notes you need on the coding function
+
+AMS or MAT?
+As a MAT major — I think you'd have higher utility with an AMS major than a MAT major as far as business management is concerned. And the mathematics major is far removed from procedural computation like calculus and below. Definitely go with AMS unless you're really passionate about MAT.
